@@ -15,6 +15,7 @@ python screensaver.py
 Šis kūrinys yra vizualinis projektas, kuris rodo dvi pagrindines animacijas:
 
 1. Atsitiktinai sujungtų taškų tinklą su besikeičiančiomis spalvomis
+
 2. Fraktalinį medį su šakomis
 
 ## Pagrindinės idėjos

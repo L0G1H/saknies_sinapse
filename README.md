@@ -22,8 +22,8 @@ python3 fancy_screensaver/screensaver.py
 
 2. Atsitiktinumo ir tvarkos sąveika - nors programoje naudojami atsitiktiniai elementai (taškų pozicijos, šakų kampai), galutinis rezultatas vis tiek turi struktūrą ir tvarką
 
-
 ## Pasaulinės problemos
+
 1. Gamtos ir technologijų balansas - kaip išlaikyti pusiausvyrą tarp technologijų vystymosi ir gamtos išsaugojimo
 
 2. Kompleksiškumas ir tarpusavio ryšiai - šiuolaikiniame pasaulyje viskas yra susiję tinklais (socialiniais, technologiniais, ekonominiais), kaip tai parodoma taškų sujungimo animacijoje

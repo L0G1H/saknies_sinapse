@@ -6,7 +6,7 @@ A Python-based screensaver that generates beautiful animated patterns using the 
 
 ```bash
 git clone https://github.com/L0G1H/fancy_screensaver
-python screensaver.py
+python3 fancy_screensaver/screensaver.py
 ```
 
 ## Kūrinys

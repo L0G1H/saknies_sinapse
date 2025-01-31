@@ -1,33 +1,24 @@
-# Fancy Screensaver                                                                                               
-                                                                                                               
-A Python-based screensaver that generates beautiful animated patterns using the turtle graphics library. The screensaver alternates between two main visual effects: a connecting dots animation and a procedurally generated tree.
+# Šaknies sinapsė                                                                                               
 
-## Setup 
+„Python“ pagrįsta ekrano užsklanda, kuri generuoja gražius animuotus modelius naudodama `turtle` grafikos biblioteką. Ekrano užsklanda keičia du pagrindinius vaizdo efektus: jungiančių taškų animaciją ir procedūriškai generuojamą medį.
+
+## Konfiguracija 
 
 ```bash
-git clone https://github.com/L0G1H/fancy_screensaver
-cd fancy_screensaver
-python screensaver.py
+git clone https://github.com/L0G1H/saknies_sinapse.git
+cd saknies_sinapse
+python saknies_sinapse.py
 ```
+#### BUTINA TKINTER BIBLIOTEKA
 
 ## Kūrinys
 
-Šis kūrinys yra vizualinis projektas, kuris rodo dvi pagrindines animacijas:
+**Šis generatyvus menas – ne tik estetinis eksperimentas, bet ir veiksmingas socialinės sąmonės kūrimo įrankis, atspindintis Lietuvos visuomenės transformacijas skaitmeninės eros sandūroje.** Kiekviena sugeneruota linija ir šaka tampa metafora, atskleidžiania gilias kolektyvinės patirties sluoksnis. Medžio fractalai, augantys iš algoritminių struktūrų, meta iššūkį tradicinei gamtos ir technologijų opozicijai – jie rodo, kaip lietuviškoji tapatybė virpa tarp pušynų melancholijos ir startuolių hubo ryškumo. Tai yra kultūrinės atminties rekonstrukcija, kurioje senovės baltų mitologijos medžiai susilieja su programavimo sintakse, o taškų tinklai atkartoja socialinių medijų komunikacijos neurozišką pulsą.
 
-1. Atsitiktinai sujungtų taškų tinklą su besikeičiančiomis spalvomis
+**Meno kūrinys veikia kaip sociotechninis veidrodis,** kuris atspindi mūsų santykį su ekologija technokratinėje visuomenėje.** Kai animacija peršoka iš chaotiškų linijų į organiškas formas, tai tampa alegorija Lietuvos kaimo išnykimui – procesui, kuriame tradiciniai ryšiai su žeme transformuojasi į dirbtinio intelekto ūkio sistemų logistiką. Spalvų paletės, kintančios nuo dirbtinai elektros spindesio iki žalių miškų atspalvių, meta klausimą: ar mes sugebame išlaikyti savo kultūrinį kodą virtualios realybės erdvėse?
 
-2. Fraktalinį medį su šakomis
+**Šiame darbe atsiskleidžia būdingas XXI amžiaus lietuviškas eksistencializmas** – tarpinė būseną tarp technologinio optimizmo ir ekologinio fatalizmo. Kiekviena atsitiktinai sukurta šaka tampa diskusija apie individualaus pasirinkimo ribotumą algoritmų valdomame pasaulyje, o taškų judesių chaosas atspindi visuomenės dezorientaciją duomenų potvyniuje. Tai yra meninė reakcija į Vilniaus miesto "Smart City" iniciatyvas ir kaimo vietovių išnykimą, į dirbtinio intelekto laboratorijas ir Baltijos jūros ekosistemų nykimą.
 
-## Pagrindinės idėjos
+**Kūrinyje glūdi ir edukacinis potencialas.** Jis demonstruoja, kaip matematikos dėsningumai gali būti meninės raiškos priemonė, skatindamas STEM mokslių ir humanitarinių disciplinų sintezę – aktualų uždavinį Lietuvos švietimo reformų kontekste. Procedūrinis generavimas tampa metafora mokymosi procesams, kur žingsnis po žingsnio, kaip šakos medyje, formuojasi pažinimo struktūros.
 
-1. Gamtos ir technologijų ryšys - medžio vizualizacija reprezentuoja gamtą, o geometriniai taškai ir linijos - technologijas/skaitmeninį pasaulį
-
-2. Atsitiktinumo ir tvarkos sąveika - nors programoje naudojami atsitiktiniai elementai (taškų pozicijos, šakų kampai), galutinis rezultatas vis tiek turi struktūrą ir tvarką
-
-## Pasaulinės problemos
-
-1. Gamtos ir technologijų balansas - kaip išlaikyti pusiausvyrą tarp technologijų vystymosi ir gamtos išsaugojimo
-
-2. Kompleksiškumas ir tarpusavio ryšiai - šiuolaikiniame pasaulyje viskas yra susiję tinklais (socialiniais, technologiniais, ekonominiais), kaip tai parodoma taškų sujungimo animacijoje
-
-3. Tvarumo klausimas - medžio vizualizacija gali priminti apie gamtos svarbą ir jos išsaugojimo būtinybę technologijų amžiuje
+**Šiuo metu, kai Lietuva siekia tapti regioniniu technologiniu centru, šis menas iškelia esminius klausimus:** Kokią kainą mokame už inovacijas? Ar galime suderinti skaitmeninę pažangą su ekologine tvirtove? Kaip išlaikyti žmogiškumą robotizacijos amžiuje? Tai nėra tik estetiniai klausimai – tai kultūrinio tapatumo išlikimo problema. Menininkas čia veikia kaip mediacija tarp inžinerijos ir poetikos, primindamas, kad kiekvienas kodas turi savo etinę dimensiją, o kiekvienas algoritmas – kultūrinę praeitį.
